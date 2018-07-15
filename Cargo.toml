@@ -1,0 +1,6 @@
+[package]
+name = "shell_scripts"
+version = "0.1.0"
+authors = ["Jason Tyler <jmtyler@gmail.com>"]
+
+[dependencies]
